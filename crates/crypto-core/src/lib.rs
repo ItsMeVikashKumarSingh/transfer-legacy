@@ -3,7 +3,11 @@
 
 pub mod aead;
 pub mod hash;
+pub mod hybrid_kem;
 pub mod jcs;
+pub mod kdf;
 pub mod memory;
 pub mod opaque;
 pub mod signatures;
+pub mod versions;
+
